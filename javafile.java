@@ -10,3 +10,4 @@ system.out.println("java");
 }
 
 }
+printf("hello")
