@@ -6,7 +6,7 @@ x=13;
 }
 public void print()
 {
-system.out.println("Naief Commited...");
+system.out.println("Naief & Meriana Commited...");
 }
 
 }
